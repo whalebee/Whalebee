@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 📬 Email
-<a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Email-61DAFB?style=flat&logo=gmail&logoColor=white"/>
+<a href="mailto:islhoeve@gmail.com"><img src="https://img.shields.io/badge/Email-61DAFB?style=flat&logo=gmail&logoColor=white"/>
 
 
 
