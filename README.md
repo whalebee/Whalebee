@@ -11,7 +11,7 @@
 ### 📬 Send me here !
 <a href="mailto:islhoeve@gmail.com"><img src="https://img.shields.io/badge/Email-61DAFB?style=flat&logo=gmail&logoColor=white"/>
 
-[![Whalebee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whalebee)](https://github.com/whalebee/github-readme-stats)
+[![Whalebee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whalebeehide=stars,contribs,prs)](https://github.com/whalebee/github-readme-stats)
 
 
 <!--
