@@ -1,4 +1,4 @@
-### Thanks for visiting https://img.shields.io/badge/-hhhh-#006600?style=flat&logo=4chan
+### Thanks for visiting <img src="https://img.shields.io/badge/-hhhh-#006600?style=flat&logo=4chan"/>
 <!--
 **Whalebee/Whalebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
