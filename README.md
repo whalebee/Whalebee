@@ -1,11 +1,11 @@
 ### Thanks for visiting 😊
 
-### 💻 Skill
+### 💻 Learning
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C-7952B3?style=flat&logo=c&logoColor=white"/>
 
 
-### 🖱️ Tools 
+### 🖱️ used Tools
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 📬 Send me here !
