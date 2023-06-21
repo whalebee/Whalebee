@@ -1,6 +1,6 @@
 ### Thanks for visiting 😊
 
-### My blog
+### ✏ My blog
 https://whalebee.github.io/
 
 ### 💻 Learning
