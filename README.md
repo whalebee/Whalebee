@@ -1,5 +1,10 @@
 ### Thanks for visiting 😊
 
+어느새 개발자로 일한지 반 년이나 지났구나..
+ㅎㅎㅎㅎ...
+직업이 아닌 한 사람으로서,
+하늘을 우러러 한 점 부끄럼이 없기를 :)
+
 ### ✏ My blog
 https://whalebee.github.io/
 
